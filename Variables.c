@@ -21,7 +21,7 @@ int main(){
        x = 123;      //INITIALIZATION
        int y = 321;  //DECLARATION + INITIALIZATION
 
-       int age = 18;             //INTEGER
+       int age = 18;             //INTEGERS
        float gpa = 1.40;         //FLOATING POINT NUMBER
        char grade = 'B';         //SINGLE CHARACTER
        char name[] = "Luna";     //ARRAY OF CHARACTERS
